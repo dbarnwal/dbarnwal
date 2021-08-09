@@ -70,4 +70,3 @@ I have good Problem Solving Skills and love to code.
 <br/>
 <br/>
 
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbarnwal)](https://github.com/anuraghazra/github-readme-stats)
