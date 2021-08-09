@@ -65,7 +65,7 @@ I have good Problem Solving Skills and love to code.
 
 ### Join my Discord Server.
 <a href="https://discord.gg/dEpYfeSh">
-  <img align="left" alt="Deepak's Discord"  height="35px" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8UuOhWSAM7nkJqdB5UeYqgg35ZYq1wF2nlplf2JCfr2j2IC5GOtpDUL9LJWMTn9T1RdA&usqp=CAU" />
+  <img align="left" alt="Deepak's Discord"  height="35px" width="30px" src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" />
 </a>
 <br/>
 <br/>
