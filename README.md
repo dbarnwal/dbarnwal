@@ -10,7 +10,7 @@ I have good Problem Solving Skills and love to code.
   <img align="left" alt="Deepak's CodeForces" height="35px" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" />
 </a>
 <a href="https://www.codechef.com/users/aomine23">
-  <img align="left" alt="Deepak's Code Chef" height="35px" width="30px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
+  <img align="left" alt="Deepak's Code Chef" height="35px" width="30px" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" />
 </a>
 
 <a href="https://www.hackerrank.com/_Aomine_">
