@@ -1,4 +1,4 @@
-## Hey 🖐, I'm [Deepak Barnwal](https://www.linkedin.com/in/deepak-barnwal-216b48186/)
+# Hey 🖐, I'm [Deepak Barnwal](https://www.linkedin.com/in/deepak-barnwal-216b48186/)
 
 <h2>
 Third Year Information Technology undergrad from Army Institute of Technology - Pune(2023), with deep interests in Data Structures and Algorithms.
