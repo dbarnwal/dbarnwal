@@ -1,11 +1,11 @@
 # Hey 🖐, I'm [Deepak Barnwal](https://www.linkedin.com/in/deepak-barnwal-216b48186/)
 
-<h2>
+<h3>
 Third Year Information Technology undergrad from Army Institute of Technology - Pune(2023), with deep interests in Data Structures and Algorithms.
 <br/>
 I have good Problem Solving Skills and love to code.
 <br/>
- </h2>
+ </h3>
 
 ### I'm a Competitive Programmer.
 <a href="https://codeforces.com/profile/Deepak_23">
