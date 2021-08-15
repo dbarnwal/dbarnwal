@@ -38,7 +38,7 @@ I have good Problem Solving Skills and love to code.
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about anything, Always ready to help.
 <br />
 
