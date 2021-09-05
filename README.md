@@ -38,12 +38,6 @@ I have good Problem Solving Skills and love to code.
 <br/>
 <br/>
 
-**Talking about Personal Stuffs:**
-
-- 🌱 I’m currently learning Full Stack Development.
-- 💬 Ask me about anything, Always ready to help.
-<br />
-
 **Languages and Tools:**
 <code><img height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
