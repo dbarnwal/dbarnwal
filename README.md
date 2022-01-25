@@ -27,9 +27,7 @@ I have good Problem Solving Skills and love to code.
   <img align="left" alt="Deepak's TopCoder" height="35px" width="30px" src="https://img.icons8.com/color/452/GeeksforGeeks.png" />
 </a>
 
-<a href="https://www.topcoder.com/members/dbarnwal">
-  <img align="left" alt="Deepak's TopCoder" height="35px" width="30px" src="https://pbs.twimg.com/profile_images/1410583222874951682/9p3wnwju_400x400.jpg" />
-</a>
+
 
 <a href="https://leetcode.com/_Aomine_/">
   <img align="left" alt="Deepak's Leet Code" height="35px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
